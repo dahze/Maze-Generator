@@ -1,7 +1,4 @@
 # Maze Generator
-
-## Overview
-
 This C++ program generates a maze using a randomized depth-first search (DFS) algorithm. The maze is represented as a grid of cells, each with walls that can be selectively opened to create paths.
 
 ## Components
